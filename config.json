@@ -1,0 +1,6 @@
+{
+    "model_type": "lm_studio",
+    "lm_studio_ip": "192.168.100.49",
+    "lm_studio_port": "1234",
+    "openai_api_key": ""
+}

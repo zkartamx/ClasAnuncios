@@ -1,0 +1,5 @@
+flask
+dspy-ai
+openai
+google-generativeai
+Pillow

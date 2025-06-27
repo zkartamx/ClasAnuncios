@@ -1,0 +1,27 @@
+[
+    {
+        "text_input": "¡50% de descuento en zapatillas, solo hoy!",
+        "classification": "anuncio",
+        "explanation": "Contiene una oferta comercial con un descuento y un sentido de urgencia."
+    },
+    {
+        "text_input": "Nos vemos a las 6 en el café.",
+        "classification": "no_anuncio",
+        "explanation": "Es un mensaje personal para coordinar una cita, sin intención comercial."
+    },
+    {
+        "text_input": "Gana un viaje gratis, regístrate ahora.",
+        "classification": "anuncio",
+        "explanation": "Promete un premio a cambio de una acción (registrarse), típico de una campaña publicitaria."
+    },
+    {
+        "text_input": "Oye, ¿ya terminaste la tarea?",
+        "classification": "no_anuncio",
+        "explanation": "Es una pregunta personal y cotidiana, sin fines comerciales."
+    },
+    {
+        "text_input": "Descubre el nuevo smartphone con cámara de 200MP. ¡Resérvalo ya!",
+        "classification": "anuncio",
+        "explanation": "Describe un producto y llama a la acción para comprarlo o reservarlo."
+    }
+]

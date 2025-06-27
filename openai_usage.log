@@ -1,0 +1,214 @@
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 466-298-711
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 466-298-711
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 466-298-711
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 466-298-711
+127.0.0.1 - - [26/Jun/2025 23:05:23] "GET / HTTP/1.1" 200 -
+HTTP Request: POST http://192.168.100.49:1234/v1completions "HTTP/1.1 200 OK"
+127.0.0.1 - - [26/Jun/2025 23:05:40] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+127.0.0.1 - - [26/Jun/2025 23:05:40] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2025 23:05:40] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2025 23:05:40] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=LmyRkhUX2iKgic6vAt3L HTTP/1.1" 200 -
+ * To enable the debugger you need to enter the security pin:
+ * Debugger pin code: 466-298-711
+127.0.0.1 - - [26/Jun/2025 23:06:44] "GET /?__debugger__=yes&cmd=printpin&s=LmyRkhUX2iKgic6vAt3L HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 466-298-711
+127.0.0.1 - - [26/Jun/2025 23:08:58] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+127.0.0.1 - - [26/Jun/2025 23:08:58] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Jun/2025 23:08:58] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Jun/2025 23:08:58] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=CGTfVBqENKI7q4wQmMtb HTTP/1.1" 200 -
+ * Detected change in '/Users/carteaga/Projects/Geminiv2/clasificador_anuncios/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 466-298-711
+HTTP Request: POST http://192.168.100.49:1234/v1completions "HTTP/1.1 200 OK"
+127.0.0.1 - - [26/Jun/2025 23:10:30] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+127.0.0.1 - - [26/Jun/2025 23:10:30] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Jun/2025 23:10:30] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Jun/2025 23:10:30] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=PryRsIg52ZpBreYOEWOF HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2025 23:10:47] "GET / HTTP/1.1" 200 -
+HTTP Request: POST http://192.168.100.49:1234/v1completions "HTTP/1.1 200 OK"
+127.0.0.1 - - [26/Jun/2025 23:11:11] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+127.0.0.1 - - [26/Jun/2025 23:11:11] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Jun/2025 23:11:11] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Jun/2025 23:11:11] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=PryRsIg52ZpBreYOEWOF HTTP/1.1[0m" 304 -
+ * Detected change in '/Users/carteaga/Projects/Geminiv2/clasificador_anuncios/venv/lib/python3.13/site-packages/openai/version.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 466-298-711
+127.0.0.1 - - [26/Jun/2025 23:17:14] "POST / HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2025 23:17:17] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2025 23:17:30] "POST / HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2025 23:18:34] "POST / HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2025 23:34:46] "POST / HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2025 23:35:56] "POST / HTTP/1.1" 200 -
+ * Detected change in '/Users/carteaga/Projects/Geminiv2/clasificador_anuncios/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 466-298-711
+127.0.0.1 - - [26/Jun/2025 23:42:14] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+127.0.0.1 - - [26/Jun/2025 23:42:14] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Jun/2025 23:42:14] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Jun/2025 23:42:14] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=aaOJf9aW0Uvm7lbif6ay HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2025 23:42:27] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2025 23:42:58] "[32mPOST /add_example HTTP/1.1[0m" 302 -
+127.0.0.1 - - [26/Jun/2025 23:42:58] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2025 23:43:04] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+127.0.0.1 - - [26/Jun/2025 23:43:04] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Jun/2025 23:43:04] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Jun/2025 23:43:04] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=aaOJf9aW0Uvm7lbif6ay HTTP/1.1[0m" 304 -
+ * Detected change in '/Users/carteaga/Projects/Geminiv2/clasificador_anuncios/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 466-298-711
+127.0.0.1 - - [26/Jun/2025 23:45:22] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2025 23:45:38] "[32mPOST /add_example HTTP/1.1[0m" 302 -
+127.0.0.1 - - [26/Jun/2025 23:45:38] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2025 23:45:48] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+127.0.0.1 - - [26/Jun/2025 23:45:48] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Jun/2025 23:45:48] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Jun/2025 23:45:48] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=gH3Uh3RJ7exorKfuS89R HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2025 23:45:56] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+127.0.0.1 - - [26/Jun/2025 23:45:56] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Jun/2025 23:45:56] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Jun/2025 23:45:56] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=gH3Uh3RJ7exorKfuS89R HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Jun/2025 23:52:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2025 23:52:41] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+127.0.0.1 - - [26/Jun/2025 23:52:41] "[33mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 404 -
+127.0.0.1 - - [26/Jun/2025 23:52:41] "[33mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 404 -
+ * Detected change in '/Users/carteaga/Projects/Geminiv2/clasificador_anuncios/app.py', reloading
+ * Restarting with stat
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 675-725-048
+127.0.0.1 - - [26/Jun/2025 23:58:41] "GET / HTTP/1.1" 200 -
+HTTP Request: POST http://192.168.100.49:1234/v1completions "HTTP/1.1 200 OK"
+127.0.0.1 - - [26/Jun/2025 23:58:53] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+127.0.0.1 - - [26/Jun/2025 23:58:53] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2025 23:58:53] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2025 23:58:53] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=P3JSaJZFZaffCTbukrK9 HTTP/1.1" 200 -
+ * Detected change in '/Users/carteaga/Projects/Geminiv2/clasificador_anuncios/venv/lib/python3.11/site-packages/openai/types/beta/assistant_tool_choice_param.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 675-725-048
+127.0.0.1 - - [27/Jun/2025 00:01:40] "GET / HTTP/1.1" 200 -
+HTTP Request: POST http://192.168.100.49:1234/v1completions "HTTP/1.1 200 OK"
+127.0.0.1 - - [27/Jun/2025 00:01:46] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+127.0.0.1 - - [27/Jun/2025 00:01:46] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/Jun/2025 00:01:46] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/Jun/2025 00:01:46] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=kkHexzGhW8VndPqSNRdC HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2025 00:02:02] "[32mPOST /add_example HTTP/1.1[0m" 302 -
+127.0.0.1 - - [27/Jun/2025 00:02:02] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2025 00:02:40] "[32mPOST /add_example HTTP/1.1[0m" 302 -
+127.0.0.1 - - [27/Jun/2025 00:02:40] "GET / HTTP/1.1" 200 -
+ * Detected change in '/Users/carteaga/Projects/Geminiv2/clasificador_anuncios/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 675-725-048
+127.0.0.1 - - [27/Jun/2025 00:06:37] "GET / HTTP/1.1" 200 -
+HTTP Request: POST http://192.168.100.49:1234/v1/completions "HTTP/1.1 200 OK"
+127.0.0.1 - - [27/Jun/2025 00:06:51] "POST / HTTP/1.1" 200 -
+HTTP Request: POST http://192.168.100.49:1234/v1/completions "HTTP/1.1 200 OK"
+127.0.0.1 - - [27/Jun/2025 00:07:03] "POST / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2025 00:07:16] "[32mPOST /add_example HTTP/1.1[0m" 302 -
+127.0.0.1 - - [27/Jun/2025 00:07:16] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2025 00:07:22] "POST / HTTP/1.1" 200 -
+HTTP Request: POST http://192.168.100.49:1234/v1/completions "HTTP/1.1 200 OK"
+127.0.0.1 - - [27/Jun/2025 00:07:29] "POST / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2025 00:07:34] "POST / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2025 00:07:45] "[32mPOST /add_example HTTP/1.1[0m" 302 -
+127.0.0.1 - - [27/Jun/2025 00:07:45] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2025 00:07:51] "[32mPOST /add_example HTTP/1.1[0m" 302 -
+127.0.0.1 - - [27/Jun/2025 00:07:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2025 00:07:58] "[32mPOST /add_example HTTP/1.1[0m" 302 -
+127.0.0.1 - - [27/Jun/2025 00:07:58] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2025 00:08:02] "POST / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2025 00:08:25] "[32mPOST /add_example HTTP/1.1[0m" 302 -
+127.0.0.1 - - [27/Jun/2025 00:08:25] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2025 00:08:28] "POST / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2025 00:08:50] "[32mPOST /add_example HTTP/1.1[0m" 302 -
+127.0.0.1 - - [27/Jun/2025 00:08:50] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2025 00:08:54] "POST / HTTP/1.1" 200 -
+HTTP Request: POST http://192.168.100.49:1234/v1/completions "HTTP/1.1 200 OK"
+127.0.0.1 - - [27/Jun/2025 00:09:19] "POST / HTTP/1.1" 200 -
+HTTP Request: POST http://192.168.100.49:1234/v1/completions "HTTP/1.1 200 OK"
+127.0.0.1 - - [27/Jun/2025 00:09:40] "POST / HTTP/1.1" 200 -
+HTTP Request: POST http://192.168.100.49:1234/v1/completions "HTTP/1.1 200 OK"
+127.0.0.1 - - [27/Jun/2025 00:09:53] "POST / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2025 00:10:11] "[32mPOST /add_example HTTP/1.1[0m" 302 -
+127.0.0.1 - - [27/Jun/2025 00:10:11] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2025 00:10:21] "POST / HTTP/1.1" 200 -
+ * Detected change in '/Users/carteaga/Projects/Geminiv2/clasificador_anuncios/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 675-725-048
+127.0.0.1 - - [27/Jun/2025 09:28:45] "GET / HTTP/1.1" 200 -
+ * Detected change in '/Users/carteaga/Projects/Geminiv2/clasificador_anuncios/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 675-725-048
+127.0.0.1 - - [27/Jun/2025 09:32:12] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2025 09:35:09] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2025 09:35:13] "POST /test_lm_studio_connection HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2025 09:35:37] "[32mPOST /configure_model HTTP/1.1[0m" 302 -
+127.0.0.1 - - [27/Jun/2025 09:35:37] "GET / HTTP/1.1" 200 -
+HTTP Request: POST http://192.168.100.49:1234/v1/chat/completions "HTTP/1.1 404 Not Found"
+Backing off request(...) for 0.7s (openai.NotFoundError: Error code: 404 - {'error': {'message': 'Model "gpt-3.5-turbo" not found. Please specify a valid model.\n\nYour models:\n\ngoogle/gemma-3-4b\nllama-3.2-1b-instruct\ntext-embedding-nomic-embed-text-v1.5\nmimo-vl-7b-rl@q4_k_s\nmimo-vl-7b-rl@q3_k_xl\ndeepseek/deepseek-r1-0528-qwen3-8b', 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}})
+HTTP Request: POST http://192.168.100.49:1234/v1/chat/completions "HTTP/1.1 404 Not Found"
+Backing off request(...) for 1.2s (openai.NotFoundError: Error code: 404 - {'error': {'message': 'Model "gpt-3.5-turbo" not found. Please specify a valid model.\n\nYour models:\n\ngoogle/gemma-3-4b\nllama-3.2-1b-instruct\ntext-embedding-nomic-embed-text-v1.5\nmimo-vl-7b-rl@q4_k_s\nmimo-vl-7b-rl@q3_k_xl\ndeepseek/deepseek-r1-0528-qwen3-8b', 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}})
+HTTP Request: POST http://192.168.100.49:1234/v1/chat/completions "HTTP/1.1 404 Not Found"
+Backing off request(...) for 3.1s (openai.NotFoundError: Error code: 404 - {'error': {'message': 'Model "gpt-3.5-turbo" not found. Please specify a valid model.\n\nYour models:\n\ngoogle/gemma-3-4b\nllama-3.2-1b-instruct\ntext-embedding-nomic-embed-text-v1.5\nmimo-vl-7b-rl@q4_k_s\nmimo-vl-7b-rl@q3_k_xl\ndeepseek/deepseek-r1-0528-qwen3-8b', 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}})
+HTTP Request: POST http://192.168.100.49:1234/v1/chat/completions "HTTP/1.1 404 Not Found"
+Backing off request(...) for 4.2s (openai.NotFoundError: Error code: 404 - {'error': {'message': 'Model "gpt-3.5-turbo" not found. Please specify a valid model.\n\nYour models:\n\ngoogle/gemma-3-4b\nllama-3.2-1b-instruct\ntext-embedding-nomic-embed-text-v1.5\nmimo-vl-7b-rl@q4_k_s\nmimo-vl-7b-rl@q3_k_xl\ndeepseek/deepseek-r1-0528-qwen3-8b', 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}})
+HTTP Request: POST http://192.168.100.49:1234/v1/chat/completions "HTTP/1.1 404 Not Found"
+Backing off request(...) for 4.5s (openai.NotFoundError: Error code: 404 - {'error': {'message': 'Model "gpt-3.5-turbo" not found. Please specify a valid model.\n\nYour models:\n\ngoogle/gemma-3-4b\nllama-3.2-1b-instruct\ntext-embedding-nomic-embed-text-v1.5\nmimo-vl-7b-rl@q4_k_s\nmimo-vl-7b-rl@q3_k_xl\ndeepseek/deepseek-r1-0528-qwen3-8b', 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}})
+HTTP Request: POST http://192.168.100.49:1234/v1/chat/completions "HTTP/1.1 404 Not Found"
+Backing off request(...) for 9.0s (openai.NotFoundError: Error code: 404 - {'error': {'message': 'Model "gpt-3.5-turbo" not found. Please specify a valid model.\n\nYour models:\n\ngoogle/gemma-3-4b\nllama-3.2-1b-instruct\ntext-embedding-nomic-embed-text-v1.5\nmimo-vl-7b-rl@q4_k_s\nmimo-vl-7b-rl@q3_k_xl\ndeepseek/deepseek-r1-0528-qwen3-8b', 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}})
+HTTP Request: POST http://192.168.100.49:1234/v1/chat/completions "HTTP/1.1 404 Not Found"
+Backing off request(...) for 34.6s (openai.NotFoundError: Error code: 404 - {'error': {'message': 'Model "gpt-3.5-turbo" not found. Please specify a valid model.\n\nYour models:\n\ngoogle/gemma-3-4b\nllama-3.2-1b-instruct\ntext-embedding-nomic-embed-text-v1.5\nmimo-vl-7b-rl@q4_k_s\nmimo-vl-7b-rl@q3_k_xl\ndeepseek/deepseek-r1-0528-qwen3-8b', 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}})
+HTTP Request: POST http://192.168.100.49:1234/v1/chat/completions "HTTP/1.1 404 Not Found"
+Backing off request(...) for 15.4s (openai.NotFoundError: Error code: 404 - {'error': {'message': 'Model "gpt-3.5-turbo" not found. Please specify a valid model.\n\nYour models:\n\ngoogle/gemma-3-4b\nllama-3.2-1b-instruct\ntext-embedding-nomic-embed-text-v1.5\nmimo-vl-7b-rl@q4_k_s\nmimo-vl-7b-rl@q3_k_xl\ndeepseek/deepseek-r1-0528-qwen3-8b', 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}})
+HTTP Request: POST http://192.168.100.49:1234/v1/chat/completions "HTTP/1.1 404 Not Found"
+Backing off request(...) for 151.5s (openai.NotFoundError: Error code: 404 - {'error': {'message': 'Model "gpt-3.5-turbo" not found. Please specify a valid model.\n\nYour models:\n\ngoogle/gemma-3-4b\nllama-3.2-1b-instruct\ntext-embedding-nomic-embed-text-v1.5\nmimo-vl-7b-rl@q4_k_s\nmimo-vl-7b-rl@q3_k_xl\ndeepseek/deepseek-r1-0528-qwen3-8b', 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}})
+HTTP Request: POST http://192.168.100.49:1234/v1/chat/completions "HTTP/1.1 404 Not Found"
+Backing off request(...) for 74.0s (openai.NotFoundError: Error code: 404 - {'error': {'message': 'Model "gpt-3.5-turbo" not found. Please specify a valid model.\n\nYour models:\n\ngoogle/gemma-3-4b\nllama-3.2-1b-instruct\ntext-embedding-nomic-embed-text-v1.5\nmimo-vl-7b-rl@q4_k_s\nmimo-vl-7b-rl@q3_k_xl\ndeepseek/deepseek-r1-0528-qwen3-8b', 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}})
+HTTP Request: POST http://192.168.100.49:1234/v1/chat/completions "HTTP/1.1 404 Not Found"
+Backing off request(...) for 16.7s (openai.NotFoundError: Error code: 404 - {'error': {'message': 'Model "gpt-3.5-turbo" not found. Please specify a valid model.\n\nYour models:\n\ngoogle/gemma-3-4b\nllama-3.2-1b-instruct\ntext-embedding-nomic-embed-text-v1.5\nmimo-vl-7b-rl@q4_k_s\nmimo-vl-7b-rl@q3_k_xl\ndeepseek/deepseek-r1-0528-qwen3-8b', 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}})
+HTTP Request: POST http://192.168.100.49:1234/v1/chat/completions "HTTP/1.1 404 Not Found"
+Backing off request(...) for 4.0s (openai.NotFoundError: Error code: 404 - {'error': {'message': 'Model "gpt-3.5-turbo" not found. Please specify a valid model.\n\nYour models:\n\ngoogle/gemma-3-4b\nllama-3.2-1b-instruct\ntext-embedding-nomic-embed-text-v1.5\nmimo-vl-7b-rl@q4_k_s\nmimo-vl-7b-rl@q3_k_xl\ndeepseek/deepseek-r1-0528-qwen3-8b', 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}})
+HTTP Request: POST http://192.168.100.49:1234/v1/chat/completions "HTTP/1.1 404 Not Found"
+Backing off request(...) for 680.7s (openai.NotFoundError: Error code: 404 - {'error': {'message': 'Model "gpt-3.5-turbo" not found. Please specify a valid model.\n\nYour models:\n\ngoogle/gemma-3-4b\nllama-3.2-1b-instruct\ntext-embedding-nomic-embed-text-v1.5\nmimo-vl-7b-rl@q4_k_s\nmimo-vl-7b-rl@q3_k_xl\ndeepseek/deepseek-r1-0528-qwen3-8b', 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}})
+HTTP Request: POST http://192.168.100.49:1234/v1/chat/completions "HTTP/1.1 404 Not Found"
+Giving up request(...) after 14 tries (openai.NotFoundError: Error code: 404 - {'error': {'message': 'Model "gpt-3.5-turbo" not found. Please specify a valid model.\n\nYour models:\n\ngoogle/gemma-3-4b\nllama-3.2-1b-instruct\ntext-embedding-nomic-embed-text-v1.5\nmimo-vl-7b-rl@q4_k_s\nmimo-vl-7b-rl@q3_k_xl\ndeepseek/deepseek-r1-0528-qwen3-8b', 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}})
+127.0.0.1 - - [27/Jun/2025 09:52:40] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+127.0.0.1 - - [27/Jun/2025 09:52:40] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/Jun/2025 09:52:40] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/Jun/2025 09:52:40] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=yXEgjKY9abQUyMSGTcN2 HTTP/1.1" 200 -
+ * Detected change in '/Users/carteaga/Projects/Geminiv2/clasificador_anuncios/app.py', reloading
